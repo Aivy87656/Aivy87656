@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 AI Developer | 🤖 Machine Learning Enthusiast<br>🎓 High school student passionate about coding and innovation<br>🚀 Currently learning and building ML projects<br>🌱 Aiming to improve my coding and communication skills through hackathons & internships<br>📚 Always curious, always learning
+💻 AI Developer | 🤖 Machine Learning Enthusiast<br>🎓 High school student passionate about coding and innovation<br>🚀 Currently learning and building ML and AI projects<br>🌱 Aiming to improve my coding and communication skills through hackathons & internships<br>📚 Always curious, always learning
 
 
 ## 🌐 Socials:
